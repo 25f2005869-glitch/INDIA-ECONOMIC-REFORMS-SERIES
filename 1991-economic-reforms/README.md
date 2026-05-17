@@ -49,25 +49,23 @@ The project demonstrates practical usage of:
 
 # 📂 Project Structure
 
-india-growth-dashboard/
+1991-economic-reforms/
 
-└── 1991-economic-reforms/
+├── analysis.py
 
-  ├── analysis.py
+├── dashboard.py
 
-  ├── dashboard.py
+├── india_growth_data.csv
 
-  ├── data/  
-  │   └── india_growth_data.csv
+├── gdp_growth.png
 
-  ├── charts/  
-  │   ├── gdp_growth.png  
-  │   ├── forex_reserves.png  
-  │   └── analysis_terminal_output.png
+├── forex_reserves.png
 
-  ├── requirements.txt
+├── analysis_terminal_output.png
 
-  └── README.md
+├── README.md
+
+└── requirements.txt
 
 ---
 
@@ -90,7 +88,7 @@ The GDP chart visualizes India's economic growth trend after the 1991 reforms.
 
 ## Output Visualization
 
-![GDP Growth](1991-economic-reforms/charts/gdp_growth.png)
+![GDP Growth](gdp_growth.png)
 
 ### Insights
 
@@ -106,7 +104,7 @@ This chart represents India's foreign exchange reserve growth after the economic
 
 ## Output Visualization
 
-![Forex Reserves](1991-economic-reforms/charts/forex_reserves.png)
+![Forex Reserves](forex_reserves.png)
 
 ### Insights
 
@@ -122,7 +120,7 @@ The project performs statistical analysis using Python.
 
 ## Output Screenshot
 
-![Terminal Output](1991-economic-reforms/charts/analysis_terminal_output.png)
+![Terminal Output](analysis_terminal_output.png)
 
 ### Statistical Outputs
 
@@ -229,12 +227,13 @@ The project concept references publicly available information from:
 This project is created for:
 
 - Educational Purposes
-- Data Analytics Learning
-- Economic Trend Visualization
-- Python Practice
+- Economic Analytics Learning
+- Data Science Practice
+- Python Programming Practice
+- Visualization Learning
 - Statistical Analysis Practice
 
-The project does not intend to provide financial, political, or policy advice.
+The project does not intend to provide financial, political, investment, or policy advice.
 
 ---
 
@@ -258,13 +257,13 @@ Future upgrades planned for this project:
 Clone the repository:
 
 ```bash
-git clone https://github.com/25f2005869-glitch/india-economic-analysis.git
+git clone https://github.com/25f2005869-glitch/india-growth-dashboard.git
 ```
 
 Go to project folder:
 
 ```bash
-cd india-economic-analysis/1991-economic-reforms
+cd india-growth-dashboard/1991-economic-reforms
 ```
 
 Install dependencies:
@@ -300,3 +299,4 @@ Python | Data Analytics | Statistics | Economic Data Visualization
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
+
