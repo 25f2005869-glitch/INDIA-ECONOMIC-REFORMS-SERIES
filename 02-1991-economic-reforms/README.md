@@ -1,116 +1,145 @@
-# 🇮🇳 India Growth & Development Dashboard (1991–2025)
+# 🇮🇳 02-1991-Economic-Reforms
 
-A Python-based economic data analytics project focused on analyzing India's economic growth journey from 1991 to 2025 using data visualization, statistics, and trend analysis.
+# 📊 India Growth & Development Dashboard (1991–2025)
 
-This project studies India's economic transformation after the 1991 Economic Reforms and visualizes major economic indicators through Python analytics tools.
+A Python-based economic analytics and visualization project focused on analyzing India's economic transformation after the historic **1991 Economic Reforms** using **Python, Pandas, Matplotlib, NumPy, Statistics, and CSV datasets**.
+
+This project studies India's economic journey from 1991 to 2025 and visualizes major economic indicators like:
+
+- GDP Growth
+- Forex Reserve Expansion
+- Economic Development Trends
+- Statistical Economic Analysis
+- Post-Liberalization Growth
+
+The project combines **Economics + Data Analytics + Visualization** to explain how the 1991 reforms transformed India into a rapidly growing economy.
 
 ---
 
-# 📌 Project Overview
+# 📚 Historical Background
 
-This project focuses on analyzing and visualizing:
+In 1991, India faced one of the biggest economic crises in its history.
 
-- 📈 GDP Growth Trends
-- 💰 Forex Reserve Growth
-- 📊 Economic Development Indicators
-- 📉 Statistical Analysis
-- 🇮🇳 India's Post-Reform Economic Journey
+The country suffered from:
 
-The project demonstrates practical usage of:
+- Extremely low foreign exchange reserves
+- High fiscal deficit
+- Economic slowdown
+- Import-export imbalance
+- Weak industrial productivity
 
-- Data Analysis
-- CSV Handling
-- Visualization
-- Python Programming
-- Statistics
+India had foreign reserves sufficient for only a few weeks of imports.
+
+To save the economy, the Government of India introduced historic reforms under the leadership of:
+
+- Prime Minister P. V. Narasimha Rao
+- Finance Minister Dr. Manmohan Singh
+
+These reforms became famous as:
+
+## LPG Reforms
+
+- Liberalization
+- Privatization
+- Globalization
+
+These reforms opened India's economy to global markets and transformed the country's long-term economic growth.
 
 ---
 
 # 🎯 Project Objectives
 
-- Analyze India's economic growth after 1991 reforms
-- Visualize GDP and Forex Reserve trends
-- Practice Data Analytics using Python
-- Build real-world economic analytics dashboards
-- Understand economic growth through datasets
+The major objectives of this project are:
+
+- Analyze India's post-1991 economic growth
+- Visualize GDP and forex reserve trends
+- Perform statistical economic analysis
+- Practice data analytics using Python
+- Understand economic liberalization through datasets
+- Build real-world analytics dashboards
 
 ---
 
 # 🛠 Technologies Used
 
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- Statistics
-- CSV Data Handling
+| Technology | Purpose |
+|---|---|
+| Python | Core Programming |
+| Pandas | Data Analysis |
+| Matplotlib | Data Visualization |
+| NumPy | Numerical Calculations |
+| Statistics | Statistical Insights |
+| CSV Files | Dataset Handling |
 
 ---
 
 # 📂 Project Structure
 
-1991-economic-reforms/
-
-├── analysis.py
-
-├── dashboard.py
-
-├── india_growth_data.csv
-
-├── gdp_growth.png
-
-├── forex_reserves.png
-
-├── analysis_terminal_output.png
-
-├── README.md
-
-└── requirements.txt
+```text
+india-growth-dashboard/
+│
+├── 02-1991-economic-reforms/
+│   │
+│   ├── README.md
+│   ├── analysis.py
+│   ├── dashboard.py
+│   ├── requirements.txt
+│   ├── india_growth_data.csv
+│   │
+│   ├── gdp_growth.png
+│   ├── forex_reserves.png
+│   └── india-dashboard_terminal_output.png
+│
+└── README.md
+```
 
 ---
 
 # 📊 Economic Indicators Included
 
-This project analyzes:
+This project analyzes and visualizes:
 
 ✅ GDP Growth Rate  
 ✅ Forex Reserve Growth  
 ✅ Economic Development Trends  
 ✅ Statistical Summary  
 ✅ Economic Visualization  
-✅ Post-Reform Economic Progress
+✅ Post-Reform Economic Progress  
+✅ Liberalization Impact  
 
 ---
 
 # 📈 GDP Growth Visualization
 
-The GDP chart visualizes India's economic growth trend after the 1991 reforms.
+The GDP growth chart visualizes India's economic performance after the 1991 reforms.
 
-## Output Visualization
+<p align="center">
+  <img src="gdp_growth.png" width="750">
+</p>
 
-![GDP Growth](gdp_growth.png)
+### 📌 Insights
 
-### Insights
-
-- Economic growth improved after reforms
-- GDP growth became more stable over time
-- India's economy expanded significantly after liberalization
+- GDP growth improved significantly after reforms
+- Economic growth became more stable
+- Industrial productivity increased
+- India emerged as a major developing economy
 
 ---
 
 # 💰 Forex Reserve Visualization
 
-This chart represents India's foreign exchange reserve growth after the economic reforms.
+This chart represents India's foreign exchange reserve growth after economic liberalization.
 
-## Output Visualization
+<p align="center">
+  <img src="forex_reserves.png" width="750">
+</p>
 
-![Forex Reserves](forex_reserves.png)
+### 📌 Insights
 
-### Insights
-
-- Forex reserves increased significantly
+- Forex reserves increased rapidly
 - External financial stability improved
-- India's import capacity strengthened
+- Import capacity strengthened
+- Investor confidence increased globally
 
 ---
 
@@ -118,95 +147,89 @@ This chart represents India's foreign exchange reserve growth after the economic
 
 The project performs statistical analysis using Python.
 
-## Output Screenshot
+<p align="center">
+  <img src="india-dashboard_terminal_output.png" width="750">
+</p>
 
-![Terminal Output](analysis_terminal_output.png)
-
-### Statistical Outputs
+### 📌 Statistical Outputs
 
 The analysis calculates:
 
 - Maximum GDP Growth
 - Average GDP Growth
 - Maximum Forex Reserves
-- Summary Statistics using Pandas
+- Economic Trend Analysis
+- Statistical Summary using Pandas
 
 ---
 
 # 📊 Features
 
-✅ Data Analysis using Pandas  
-✅ Economic Trend Visualization  
-✅ CSV Dataset Handling  
-✅ Statistical Calculations  
-✅ Multiple Economic Indicators  
-✅ Real-world Economic Insights
+## Economic Data Analysis
+
+- GDP Growth Analysis
+- Forex Reserve Analysis
+- Statistical Calculations
+- Economic Trend Analysis
+- CSV Dataset Processing
+
+---
+
+## Data Visualization
+
+The project automatically generates:
+
+- GDP Growth Charts
+- Forex Reserve Charts
+- Economic Trend Visualizations
+- Statistical Output Images
+
+All PNG files are generated automatically using Matplotlib.
 
 ---
 
 # 📚 Learning Outcomes
 
-This project helped in learning:
+This project helps in understanding:
 
-- Python Programming
-- Data Analytics
-- Pandas DataFrame Operations
-- Economic Data Visualization
+- Economic Liberalization
+- India's Growth Journey
+- Data Analytics using Python
+- Pandas DataFrames
 - Statistical Thinking
+- Data Visualization
 - GitHub Project Structuring
+- Economic Research Concepts
 
 ---
 
-# 🇮🇳 Historical Background
+# 🇮🇳 Importance of 1991 Economic Reforms
 
-In 1991, India introduced major economic reforms known as:
+The 1991 reforms transformed India by:
 
-- Liberalization
-- Privatization
-- Globalization (LPG Reforms)
-
-These reforms transformed India's economy by:
-
-- Opening markets
+- Opening markets to global competition
 - Increasing foreign investment
-- Improving industrial growth
-- Expanding economic opportunities
+- Encouraging private sector growth
+- Improving industrial efficiency
+- Expanding exports
+- Increasing forex reserves
 
-This project visualizes India's growth journey after these reforms.
+These reforms are considered one of the biggest turning points in modern Indian economic history.
 
 ---
 
 # 📚 Data Sources & References
 
-The datasets, historical references, and economic insights used in this project are inspired from publicly available and educational sources.
+The project uses educational and publicly available economic references.
 
-## 📊 Data Sources
+## 📊 Sources
 
 - Reserve Bank of India (RBI)
 - World Bank Open Data
 - International Monetary Fund (IMF)
 - Ministry of Finance, Government of India
-- MOSPI (Ministry of Statistics and Programme Implementation)
+- MOSPI
 - Economic Survey of India
-
----
-
-# 📖 Historical References
-
-This project studies India's post-1991 economic development, including:
-
-- Economic Liberalization
-- Forex Reserve Growth
-- GDP Expansion
-- Economic Modernization
-- Post-Reform Economic Transformation
-
-Historical information is inspired from:
-
-- RBI Reports
-- Economic Survey Documents
-- Government Publications
-- Public Economic Research Sources
 
 ---
 
@@ -214,75 +237,78 @@ Historical information is inspired from:
 
 The project concept references publicly available information from:
 
-- Reserve Bank of India (RBI)
-- Government of India
-- Ministry of Finance
-- World Bank
-- IMF Economic Reports
+- RBI Reports
+- Government Economic Reports
+- World Bank Economic Data
+- IMF Reports
+- Ministry of Finance Publications
 
 ---
 
-# 🎯 Learning Purpose
+# 🎓 Learning Purpose
 
 This project is created for:
 
 - Educational Purposes
 - Economic Analytics Learning
-- Data Science Practice
-- Python Programming Practice
-- Visualization Learning
-- Statistical Analysis Practice
+- Python Practice
+- Statistics Learning
+- Visualization Practice
+- Data Science Projects
 
-The project does not intend to provide financial, political, investment, or policy advice.
-
----
-
-# 🚀 Future Improvements
-
-Future upgrades planned for this project:
-
-- Interactive Streamlit Dashboard
-- Real Government Economic Dataset
-- Inflation Analysis
-- Population Analysis
-- Employment Trends
-- Rupee Devaluation Analysis
-- AI-Based Economic Predictions
-- Advanced Economic Visualizations
+This project does not provide investment or financial advice.
 
 ---
 
-# 📦 Installation
+# ▶️ How to Run the Project
 
-Clone the repository:
-
-```bash
-git clone https://github.com/25f2005869-glitch/india-growth-dashboard.git
-```
-
-Go to project folder:
-
-```bash
-cd india-growth-dashboard/1991-economic-reforms
-```
-
-Install dependencies:
+## Step 1 — Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run analysis:
+---
+
+## Step 2 — Run Analysis File
 
 ```bash
 python analysis.py
 ```
 
-Run dashboard:
+This script:
+
+- Performs statistical analysis
+- Generates economic insights
+- Displays summary statistics
+
+---
+
+## Step 3 — Run Dashboard File
 
 ```bash
 python dashboard.py
 ```
+
+This script:
+
+- Generates charts automatically
+- Saves PNG files automatically
+- Creates dashboard visualizations
+
+---
+
+# 🚀 Future Improvements
+
+Possible future upgrades:
+
+- Streamlit Interactive Dashboard
+- Real Government Dataset Integration
+- Inflation Analysis
+- Employment Analysis
+- Population Trend Analysis
+- AI-Based Economic Predictions
+- Advanced Economic Dashboards
 
 ---
 
@@ -290,13 +316,11 @@ python dashboard.py
 
 **Saloni Tiwari**
 
-Python | Data Analytics | Statistics | Economic Data Visualization
+Python | Data Analytics | Statistics | Economic Visualization
 
 ---
 
-# ⭐ GitHub Repository
+# 📜 License
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
+This project is created for educational and learning purposes.
 
