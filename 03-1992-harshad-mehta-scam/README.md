@@ -1,8 +1,15 @@
+# INDIA-ECONOMIC-REFORMS-SERIES  
 # 📈 1992 Harshad Mehta Scam Analysis Dashboard
 
 A Python-based financial data analytics project focused on analyzing the **1992 Harshad Mehta Stock Market Scam** and its impact on the Indian stock market, banking system, inflation, and investor confidence.
 
 This project uses **Python, Pandas, Matplotlib, NumPy, and Statistics** to visualize economic trends and understand one of the biggest financial scams in Indian history.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
 ---
 
@@ -45,20 +52,23 @@ This project also helps in understanding how the scam changed India's financial 
 
 # 📂 Project Structure
 
-1992-harshad-mehta-scam/
-
-├── analysis.py  
-├── dashboard.py  
-├── data/  
-│   └── scam_data.csv  
-├── charts/  
-│   ├── sensex_growth.png  
-│   ├── market_crash.png  
-│   ├── inflation_trend.png  
-│   └── banking_impact.png  
-├── harshad_mehta_analysis_output.png  
-├── requirements.txt  
+```text
+03-1992-harshad-mehta-scam/
+│
+├── charts/
+│   ├── acc_stock_growth.png
+│   ├── harshad_mehta_terminal_output.png
+│   ├── inflation_trend.png
+│   └── sensex_crash.png
+│
+├── data/
+│   └── scam_data.csv
+│
+├── analysis.py
+├── dashboard.py
+├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -66,97 +76,37 @@ This project also helps in understanding how the scam changed India's financial 
 
 This project analyzes:
 
-✅ Sensex Growth  
-✅ Market Crash Analysis  
+✅ ACC Stock Growth  
+✅ Sensex Crash Analysis  
 ✅ Inflation Trend  
-✅ Banking Crisis Impact  
-✅ Investor Panic  
 ✅ Statistical Summary  
 ✅ Economic Visualization
 
 ---
 
-# 📈 Sensex Growth Analysis
+# 📈 Data Visualizations
 
-The visualization shows the artificial stock market boom created during the scam period.
+## Terminal Output
 
-## Output Visualization
-
-![Sensex Growth](charts/sensex_growth.png)
-
-### Insights
-
-- Stock prices increased abnormally
-- Market experienced artificial bullish growth
-- Investor speculation increased rapidly
+![Terminal Output](charts/harshad_mehta_terminal_output.png)
 
 ---
 
-# 📉 Market Crash Analysis
+## ACC Stock Growth
 
-This chart represents the sudden market collapse after the scam exposure.
-
-## Output Visualization
-
-![Market Crash](charts/market_crash.png)
-
-### Insights
-
-- Sensex crashed sharply after exposure
-- Investors suffered major losses
-- Banking liquidity problems increased
+![ACC Stock Growth](charts/acc_stock_growth.png)
 
 ---
 
-# 💹 Inflation Trend Analysis
-
-This visualization shows inflation fluctuations during the scam period.
-
-## Output Visualization
+## Inflation Trend
 
 ![Inflation Trend](charts/inflation_trend.png)
 
-### Insights
-
-- Inflation pressure increased during instability
-- Economic uncertainty affected markets
-- Commodity prices became volatile
-
 ---
 
-# 🏦 Banking System Impact
+## Sensex Crash
 
-This visualization represents the effect of fake banking transactions and liquidity misuse.
-
-## Output Visualization
-
-![Banking Impact](charts/banking_impact.png)
-
-### Insights
-
-- Weak banking controls were exposed
-- Fake Bank Receipts caused financial instability
-- Regulatory weaknesses became visible
-
----
-
-# 🖥 Analysis Terminal Output
-
-The project also performs statistical analysis using Python.
-
-## Output Screenshot
-
-![Terminal Output](harshad_mehta_analysis_output.png)
-
-### Statistical Outputs
-
-The analysis calculates:
-
-- Maximum Sensex Growth
-- Average Market Growth
-- Inflation Statistics
-- Banking Impact Summary
-- Statistical Summary using Pandas
+![Sensex Crash](charts/sensex_crash.png)
 
 ---
 
@@ -200,17 +150,9 @@ This scam changed India's financial system permanently.
 
 ## Key Reforms
 
-### ✅ SEBI Strengthened
-
-SEBI received legal powers through the SEBI Act, 1992.
-
-### ✅ NSE Establishment
-
-National Stock Exchange (NSE) was established to improve transparency.
-
-### ✅ Electronic Trading & Demat System
-
-Paper share systems were replaced by digital trading and Demat accounts.
+- **SEBI Strengthened:** SEBI received legal powers through the SEBI Act, 1992.
+- **NSE Establishment:** National Stock Exchange (NSE) was established to improve transparency.
+- **Electronic Trading & Demat System:** Paper share systems were replaced by digital trading and Demat accounts.
 
 ---
 
@@ -313,4 +255,35 @@ Future upgrades planned for this project:
 Clone the repository:
 
 ```bash
-git clone https://github.com/25f2005869-glitch/india-growth-dashboard.git
+git clone https://github.com/25f2005869-glitch/INDIA-ECONOMIC-REFORMS-SERIES.git
+```
+
+Go to project folder:
+
+```bash
+cd INDIA-ECONOMIC-REFORMS-SERIES/03-1992-harshad-mehta-scam
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run analysis:
+
+```bash
+python analysis.py
+```
+
+---
+
+# 👩‍💻 Author
+
+**Saloni Tiwari**
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
