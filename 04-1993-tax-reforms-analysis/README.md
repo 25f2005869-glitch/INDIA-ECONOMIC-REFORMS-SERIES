@@ -1,3 +1,4 @@
+# INDIA-ECONOMIC-REFORMS-SERIES
 # 1993 Tax Reforms Analysis
 
 ## Overview
@@ -183,6 +184,46 @@ which transformed India into a unified indirect tax economy.
 The project automatically generates high-quality charts using Matplotlib.
 
 Generated PNG files are automatically saved inside the `charts/` folder.
+
+## Terminal Output
+
+![Terminal Output](charts/tax_reforms_terminal_output.png)
+
+---
+
+## 1. Customs Duty Reduction
+
+![Customs Duty Reduction](charts/customs_duty_reduction.png)
+
+---
+
+## 2. Fiscal Deficit
+
+![Fiscal Deficit](charts/fiscal_deficit.png)
+
+---
+
+## 3. GDP Growth
+
+![GDP Growth](charts/gdp_growth.png)
+
+---
+
+## 4. Inflation Trend
+
+![Inflation Trend](charts/inflation_trend.png)
+
+---
+
+## 5. Laffer Curve
+
+![Laffer Curve](charts/laffer_curve.png)
+
+---
+
+## 6. Tax Revenue Growth
+
+![Tax Revenue Growth](charts/tax_revenue_growth.png)
 
 ---
 
