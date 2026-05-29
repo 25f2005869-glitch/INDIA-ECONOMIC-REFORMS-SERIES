@@ -1,3 +1,4 @@
+# INDIA-ECONOMIC-REFORMS-SERIES
 # 05-1992-93-CCI-End-SEBI-Rise
 
 # Indian Capital Market Reforms (1992-93)
@@ -5,8 +6,13 @@
 
 ---
 
-# Author
-### Saloni Tiwari
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
+
 
 ---
 
@@ -255,22 +261,41 @@ SEBI introduced:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations / Best Charts Included
 
-## 📊 Market Volatility
-Before vs After SEBI regulation
+## Terminal Output
 
-## 📈 Capital Raised Growth
-Growth in market participation
+![Terminal Output](charts/sebi_terminal_output.png)
 
-## 📉 Investor Protection
-Increase in complaint resolution
+---
 
-## 📊 Market Modernization
-Capital growth vs volatility reduction
+## Market Volatility
 
-## 📈 SEBI Growth Analysis
-Rise of modern regulated capital markets
+![Market Volatility](charts/market_volatility.png)
+
+---
+
+## Capital Raised Growth
+
+![Capital Raised Growth](charts/capital_raised_growth.png)
+
+---
+
+## Investor Protection
+
+![Investor Protection](charts/investor_protection.png)
+
+---
+
+## Market Modernization
+
+![Market Modernization](charts/market_modernization.png)
+
+---
+
+## SEBI Growth Analysis
+
+![SEBI Growth](charts/sebi_growth.png)
 
 ---
 
