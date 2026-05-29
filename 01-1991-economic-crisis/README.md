@@ -1,6 +1,6 @@
 # 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 
-##1991-economic-crisis
+# 1991-economic-crisis
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
