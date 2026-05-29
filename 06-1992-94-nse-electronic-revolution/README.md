@@ -5,8 +5,12 @@
 
 ---
 
-# Author
-## Saloni Tiwari
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
+
 
 ---
 
@@ -262,22 +266,41 @@ This creates a direct connection between:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations
 
-## 📈 Trading Volume Growth
-Rise of electronic trading participation
+## Terminal Output
 
-## 📉 Settlement Reduction
-Reduction in settlement cycle delays
+![Terminal Output](charts/nse_terminal_output.png)
 
-## 📊 Liquidity Growth
-Improvement in market liquidity
+---
 
-## 📈 Market Transparency
-Transparency and efficiency after NSE
+## Electronic Trading Growth
 
-## 📊 Electronic Trading Growth
-Rise in FII participation
+![Electronic Trading Growth](charts/electronic_trading_growth.png)
+
+---
+
+## Liquidity Growth
+
+![Liquidity Growth](charts/liquidity_growth.png)
+
+---
+
+## Market Transparency
+
+![Market Transparency](charts/market_transparency.png)
+
+---
+
+## Trading Volume Growth
+
+![Trading Volume Growth](charts/trading_volume_growth.png)
+
+---
+
+## Settlement Reduction
+
+![Settlement Reduction](charts/settlement_reduction.png)
 
 ---
 
@@ -467,3 +490,7 @@ Made with Python, Statistics, Finance, and Financial Market Research.
 
 # Author
 ## Saloni Tiwari
+
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
