@@ -1,3 +1,4 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 09-1995-WTO-Membership-India
 
 # India's Entry into the Global Trading System
@@ -5,8 +6,12 @@
 
 ---
 
-# Author
-## Saloni Tiwari
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
+
 
 ---
 
@@ -236,26 +241,47 @@ This creates a direct connection between:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations
 
-## 📈 Trade Openness Growth
-Global trade integration
+## Terminal Output
 
-## 📊 Forex Reserve Growth
-Foreign reserve expansion
+![Terminal Output](charts/wto_terminal_output.png)
 
-## 📉 Tariff Reduction
-Trade liberalization impact
+---
 
-## 📈 Export Growth
-Growth in international trade
+## Trade Openness Growth
 
-## 📊 Pharma Export Growth
-Rise of India's pharma industry
+![Trade Openness Growth](charts/trade_openness_growth.png)
 
-## 📈 GDP vs Trade Correlation
-Trade openness and economic growth
+---
 
+## Forex Reserve Growth
+
+![Forex Reserve Growth](charts/forex_reserve_growth.png)
+
+---
+
+## Tariff Reduction
+
+![Tariff Reduction](charts/tariff_reduction.png)
+
+---
+
+## Export Growth
+
+![Export Growth](charts/export_growth.png)
+
+---
+
+## Pharma Export Growth
+
+![Pharma Export Growth](charts/pharma_export_growth.png)
+
+---
+
+## GDP vs Trade Correlation
+
+![GDP vs Trade Correlation](charts/gdp_trade_correlation.png)
 ---
 
 # Why This Project Is Powerful
@@ -434,3 +460,21 @@ Made with Python, Statistics, Trade Analytics, and Economic Research.
 
 # Author
 ## Saloni Tiwari
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
+
+
+Python • Data Analytics • Statistics • Economic Visualization • Historical Economic Research
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this repository useful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 Repository Draft Reference
+
+Based on repository draft structure and uploaded project documentation. :contentReference[oaicite:0]{index=0}
