@@ -1,12 +1,16 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 11-2000-Foreign-Exchange-Management-Act-FEMA
 
 # India's Foreign Exchange Liberalization Revolution
 ## From FERA Control to FEMA Management
 
 ---
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
-# Author
-## Saloni Tiwari
 
 ---
 
@@ -253,29 +257,53 @@ This creates a direct connection between:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations
 
-## 📈 Forex Reserve Growth
-Expansion of India's forex reserves
+## Terminal Output
 
-## 📊 Trade Openness Growth
-Global integration after FEMA
+![Terminal Output](charts/fema_terminal_output.png)
 
-## 📉 FDI Inflow Growth
-Foreign investment confidence
+---
 
-## 📈 IT Export Growth
-Rise of India's IT sector
+## Forex Reserve Growth
 
-## 📊 Current Account Liberalization
-Expansion of forex accessibility
+![Forex Reserve Growth](charts/forex_reserve_growth.png)
 
-## 📈 Forex Stability
-Impact of FEMA on economic stability
+---
 
-## 📉 FEMA vs FERA
-Transition from control to management
+## Trade Openness Growth
 
+![Trade Openness Growth](charts/trade_openness_growth.png)
+
+---
+
+## FDI Inflow Growth
+
+![FDI Inflow Growth](charts/fdi_inflow_growth.png)
+
+---
+
+## IT Export Growth
+
+![IT Export Growth](charts/it_export_growth.png)
+
+---
+
+## Current Account Liberalization
+
+![Current Account Liberalization](charts/current_account_liberalization.png)
+
+---
+
+## Forex Stability
+
+![Forex Stability](charts/forex_stability.png)
+
+---
+
+## FEMA vs FERA
+
+![FEMA vs FERA](charts/fema_vs_fera.png)
 ---
 
 # Why This Project Is Powerful
@@ -459,3 +487,21 @@ Made with Python, Statistics, Foreign Exchange Analytics, and Global Finance Res
 
 # Author
 ## Saloni Tiwari
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
+
+
+Python • Data Analytics • Statistics • Economic Visualization • Historical Economic Research
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this repository useful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 Repository Draft Reference
+
+Based on repository draft structure and uploaded project documentation.
