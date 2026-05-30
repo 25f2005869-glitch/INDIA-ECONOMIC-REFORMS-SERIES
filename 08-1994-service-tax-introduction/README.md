@@ -1,3 +1,4 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 08-1994-Service-Tax-Introduction
 
 # Birth of Modern Indirect Taxation in India
@@ -5,8 +6,11 @@
 
 ---
 
-# Author
-## Saloni Tiwari
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
 ---
 
@@ -222,25 +226,47 @@ This creates a direct connection between:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations
 
-## 📈 Service Tax Revenue Growth
-Growth of indirect tax collection
+## Terminal Output
 
-## 📉 Fiscal Deficit Reduction
-Impact on fiscal stability
+![Terminal Output](charts/service_tax_terminal_output.png)
 
-## 📊 Service Sector GDP
-Expansion of service economy
+---
 
-## 📈 Revenue Expansion
-Increase in taxable services
+## Service Tax Revenue Growth
 
-## 📊 GST Foundation
-Evolution toward modern GST
+![Service Tax Revenue Growth](charts/service_tax_growth.png)
 
-## 📈 Tax Stability
-Service GDP vs Tax Revenue
+---
+
+## Fiscal Deficit Reduction
+
+![Fiscal Deficit Reduction](charts/fiscal_deficit_reduction.png)
+
+---
+
+## Service Sector GDP
+
+![Service Sector GDP](charts/service_sector_gdp.png)
+
+---
+
+## Revenue Expansion
+
+![Revenue Expansion](charts/revenue_expansion.png)
+
+---
+
+## GST Foundation
+
+![GST Foundation](charts/gst_foundation.png)
+
+---
+
+## Tax Stability
+
+![Tax Stability](charts/tax_stability.png)
 
 ---
 
@@ -414,3 +440,21 @@ Made with Python, Statistics, Taxation Analytics, and Public Finance Research.
 
 # Author
 ## Saloni Tiwari
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
+
+
+Python • Data Analytics • Statistics • Economic Visualization • Historical Economic Research
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this repository useful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 Repository Draft Reference
+
+Based on repository draft structure and uploaded project documentation. :contentReference[oaicite:0]{index=0}
