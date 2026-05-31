@@ -1,14 +1,14 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 🇮🇳 16_2009-Satyam-Computers-Collapse
 
 # Satyam Computers Collapse (2009)
 ## Corporate Fraud • Governance Failure • SEBI Reforms • Audit Regulation Revolution
 
 ---
-
-# 👩‍💻 Author
-
-## Saloni Tiwari
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
 ---
 
 # 📌 Project Overview
@@ -338,31 +338,65 @@ This became an important example of:
 
 ---
 
-# 📈 Major Charts Included
+# 📊 Data Visualizations
 
-## 📉 Stock Price Crash
-Satyam market collapse analysis
+## Terminal Output
 
-## 📊 Fake Revenue Analysis
-Artificial revenue inflation
+![Terminal Output](charts/satyam_corporate_fraud_analysis_terminal_output.png)
 
-## 📉 Market Cap Collapse
-Corporate valuation destruction
+---
 
-## 📊 Volatility Variance
-Market instability analytics
+## Stock Price Crash
 
-## 📈 Investor Confidence Recovery
-Recovery after intervention
+![Stock Price Crash](charts/stock_price_crash.png)
 
-## 📊 Audit Failure Analysis
-Auditing system breakdown
+---
 
-## 📈 Governance Reforms
-Corporate governance strengthening
+## Fake Revenue Analysis
 
-## 📊 SEBI Regulation Impact
-Regulatory reforms analysis
+![Fake Revenue Analysis](charts/fake_revenue_analysis.png)
+
+---
+
+## Market Cap Collapse
+
+![Market Cap Collapse](charts/market_cap_collapse.png)
+
+---
+
+## Volatility Variance
+
+![Volatility Variance](charts/volatility_variance.png)
+
+---
+
+## Audit Failure Analysis
+
+![Audit Failure Analysis](charts/audit_failure_analysis.png)
+
+---
+
+## Corporate Recovery
+
+![Corporate Recovery](charts/corporate_recovery.png)
+
+---
+
+## Investor Confidence Recovery
+
+![Investor Confidence Recovery](charts/investor_confidence_recovery.png)
+
+---
+
+## SEBI Regulation Impact
+
+![SEBI Regulation Impact](charts/sebi_regulation_impact.png)
+
+---
+
+## Statistical Mean Reversion
+
+![Statistical Mean Reversion](charts/statistical_mean_reversion.png)
 
 ---
 
